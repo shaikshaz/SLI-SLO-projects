@@ -1,5 +1,6 @@
 # SLI-SLO-projects
 ![image](https://github.com/shaikshaz/SLI-SLO-projects/assets/154241222/788024da-a012-4ae0-a323-39f1185333b6)
+
 SITUATION: There is a E-commers web application called “Shop fast” which is getting a huge incoming traffic and we must reduce the issue faced during these situations like latency, downtime of application, Browsing and checkout issues.
 
 TASK: Task is to develop a set of Service Level Indicators (SLIs) and Service Level Objectives (SLOs) for this application. Shop Fast's primary functionalities include product search, user account management, product browsing, shopping cart management, and the checkout process so that users can experience high quality experience and system reliability.
